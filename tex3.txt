@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-=======
-
-ennek meg hol kéne látszania 
-
-ez csak a b projektben kéne hogy létezzen 
->>>>>>> upstream/master
