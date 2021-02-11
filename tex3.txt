@@ -1,6 +1,1 @@
-6:08
-
-
-ennek meg hol kéne látszania 
-
-ez csak a b projektben kéne hogy létezzen 
+nem értem hogy miért van merge conflictgit 
